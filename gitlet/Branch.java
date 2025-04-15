@@ -1,7 +1,6 @@
-package gitlet;
+﻿package gitlet;
 
 import java.io.File;
-import java.nio.file.StandardCopyOption;
 import java.util.*;
 
 import static gitlet.Repository.*;

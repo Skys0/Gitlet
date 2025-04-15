@@ -48,7 +48,7 @@ public class GitletMethod {
     }
 
 
-    /** 对应 rm命令
+    /** 对应 rm 命令
      * Usage: java gitlet.Main rm [file name].
      * */
     public static void rm(String[] args) {
